@@ -1,6 +1,6 @@
 [
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=anime4up.tv&sz=%size%",
+        "iconUrl": "https://apkrabi.com/uploads/2022/6/anime4up-icon-1.jpg",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/bordji18/anime4up",
         "fileSize": 33459,
@@ -15,7 +15,7 @@
             "Others"
         ],
         "version": 7,
-        "internalName": "anime4up",
+        "internalName": "Anime4upPack",
         "description": "This pack contains Anime4up",
         "url": "https://github.com/bordji18/anime4up/raw/refs/heads/main/Anime4upPack.cs3",
         "name": "Anime4up"

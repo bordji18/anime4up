@@ -1,0 +1,23 @@
+[
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=anime4up.tv&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/bordji18/anime4up",
+        "fileSize": 15389,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "bordji18"
+        ],
+        "tvTypes": [
+            "Anime",
+            "AnimeMovie",
+            "Others"
+        ],
+        "version": 1,
+        "internalName": "anime4up",
+        "description": "This pack contains Anime4up",
+        "url": "https://github.com/bordji18/anime4up/raw/refs/heads/main/Anime4upPack.cs3",
+        "name": "Anime4up"
+    },
+]

@@ -17,27 +17,7 @@
         "version": 7,
         "internalName": "Anime4upPack",
         "description": "This pack contains Anime4up",
-        "url": "https://github.com/bordji18/anime4up/raw/refs/heads/main/Anime4upPack.cs3",
+        "url": "https://github.com/bordji18/anime4up/raw/main/Anime4upPack.cs3",
         "name": "Anime4up"
-    },
-        {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=tv.egydead.live&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/aymanbest/Arabico",
-        "fileSize": 13531,
-        "status": 1,
-        "language": "ar",
-        "authors": [
-            "KingSlayer_007"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie",
-            "Anime"
-        ],
-        "version": 4,
-        "internalName": "EgyDeadProvider",
-        "url": "https://github.com/aymanbest/Arabico/raw/main/build/EgyDeadProvider.cs3",
-        "name": "EgyDeadProvider"
     },
 ]
